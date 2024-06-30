@@ -6,17 +6,15 @@
 
 Una red neuronal es un modelo de machine learning inspirado en la estructura y el funcionamiento del cerebro humano. Está diseñada para tomar decisiones imitando cómo las neuronas biológicas trabajan juntas para identificar fenómenos, sopesar opciones y llegar a conclusiones.
 
-&lt;p style="float: right; margin-left: 10px;"&gt;
-    &lt;img src="https://assets.isu.pub/document-structure/210510021110-9ddcf1449571f5a351db79d67bf90513/v1/1850068f7d951490560789f46cb9c89f.jpg" alt="Imagen" width="300px"&gt;
-&lt;/p&gt;
+![](https://assets.isu.pub/document-structure/210510021110-9ddcf1449571f5a351db79d67bf90513/v1/1850068f7d951490560789f46cb9c89f.jpg)
 
 Las redes neuronales constan de múltiples capas de nodos o neuronas artificiales: una capa de entrada, una o varias capas ocultas y una capa de salida. Cada nodo está conectado a otros nodos y tiene su propia ponderación y umbral asociados. Si la salida de un nodo individual está por encima del valor umbral especificado, ese nodo se activa y envía datos a la siguiente capa de la red. De lo contrario, no se pasa ningún dato a la siguiente capa.
 
-&lt;img src="https://www.droneguru.es/wp-content/uploads/2019/11/004.png" alt="Imagen" width="600px"&gt;
+![](https://www.droneguru.es/wp-content/uploads/2019/11/004.png)
 
 Estos sistemas se basan en datos de entrenamiento para aprender y mejorar su precisión con el tiempo. Una vez entrenadas, las redes neuronales se convierten en herramientas poderosas en informática e inteligencia artificial, permitiendo clasificar y agrupar datos a gran velocidad. Por ejemplo, el algoritmo de búsqueda de Google es una de las aplicaciones más conocidas de redes neuronales.
 
-&lt;img src="https://www.xeridia.com/wp-content/uploads/2020/08/entrenar-redes-neuronales-artificiales.jpg.webp" alt="Imagen" width="600px"&gt;
+![](https://www.xeridia.com/wp-content/uploads/2020/08/entrenar-redes-neuronales-artificiales.jpg.webp)
 
 Las redes neuronales, también conocidas como redes neuronales artificiales (ANN) o redes neuronales simuladas (SNN), son un subconjunto del machine learning y forman el núcleo de los modelos de deep learning.
 
@@ -82,7 +80,7 @@ Usando una función de activación simple, si el resultado es mayor que 0, el no
 
 El aprendizaje de la red neuronal implica presentar muchos ejemplos para los cuales se conoce el resultado, comparar las predicciones de la red con los resultados reales, y ajustar las ponderaciones para reducir el error. Este proceso se repite muchas veces hasta que la red mejora su precisión.
 
-&lt;img src="https://miro.medium.com/v2/resize:fit:1156/format:webp/1*DzPv2JB24A9Po7sblKs5EA.jpeg" alt="Imagen" width="600px"&gt;
+![](https://miro.medium.com/v2/resize:fit:1156/format:webp/1*DzPv2JB24A9Po7sblKs5EA.jpeg)
 
 #### Tipos de redes neuronales
 
