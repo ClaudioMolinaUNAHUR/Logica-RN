@@ -158,5 +158,3 @@ Las redes neuronales artificiales son herramientas poderosas para la inteligenci
 [https://www.inesdi.com/blog/que-son-las-redes-neuronales/](https://www.inesdi.com/blog/que-son-las-redes-neuronales/)  
 
 [https://www.ibm.com/docs/es/spss-modeler/saas?topic=networks-neural-model](https://www.ibm.com/docs/es/spss-modeler/saas?topic=networks-neural-model) 
-
-**
